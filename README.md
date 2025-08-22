@@ -19,11 +19,13 @@ Built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**, SHOPVIBE d
 
 ## 🖼️ Screenshots
 
-| 🏠 Home Page                  | 🛒 Product Grid               | 📄 Product Details                  | 🧾 Cart Page                  |
-| ----------------------------- | ----------------------------- | ----------------------------------- | ----------------------------- |
-| ![Home](screenshots/home.png) | ![Grid](screenshots/grid.png) | ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) |
+<img width="1715" height="821" alt="Screenshot 2025-08-22 001204" src="https://github.com/user-attachments/assets/22a6a77c-d084-4525-99f6-638bd970af0d" />
+<img width="1537" height="838" alt="Screenshot 2025-08-22 001228" src="https://github.com/user-attachmen<img width="1379" height="619" alt="Screenshot 2025-08-22 001251" src="https://github.com/user-attachments/assets/3fc8c73f-1da1-460a-89a8-a959b9c4ced1" />
+ts/assets/0234983c-175f-43ea-8bcc-06f387d75df9" />
+<img width="1584" height="841" alt="Screenshot 2025-08-22 001300" src="https://github.com/user-attachments/assets/df65042c-dadf-4b4f-89f0-81e10fbb7e44" />
 
-✨ *Add screenshots in a `screenshots/` folder and update paths as needed.*
+<img width="1349" height="838" alt="Screenshot 2025-08-22 001244" src="https://github.com/user-attachments/assets/07824c3a-add3-4143-ae2d-3a1e1853fdc5" />
+
 
 ---
 
